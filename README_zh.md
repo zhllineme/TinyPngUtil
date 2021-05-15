@@ -1,5 +1,5 @@
 # TinyPngUtil
-中文 | [English](https://github.com/zhllineme/TinyPngUtil/README.md) 
+中文 | [English](https://github.com/zhllineme/TinyPngUtil) 
 
 TinyPng使用免费api key的工具。支持多个api键。
 

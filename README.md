@@ -1,5 +1,5 @@
 # TinyPngUtil
-English | [中文](https://github.com/zhllineme/TinyPngUtil/README.zh.md) 
+English | [中文](https://github.com/zhllineme/TinyPngUtil/blob/main/README_zh.md) 
 
 A tool for TinyPng to use free api key. Support multiple api keys. 
 
