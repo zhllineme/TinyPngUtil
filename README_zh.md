@@ -1,7 +1,7 @@
 # TinyPngUtil
 中文 | [English](https://github.com/zhllineme/TinyPngUtil) 
 
-TinyPng使用免费api key的工具。支持多个api键。
+使用免费api key的TinyPng工具。支持多个api键。
 
 - 按顺序验证key并自动设置下一个有效key
 
